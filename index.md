@@ -39,7 +39,6 @@ Please be aware, that we will not publicly release the homework assignments from
 
 * Please find all material linked on this [webpage](http://cs109.github.io/2014/index.html).
 
-
 #### Material from CS 109 taught in Fall 2013
 
 * [Homework, labs and solutions](https://github.com/cs109/content)
